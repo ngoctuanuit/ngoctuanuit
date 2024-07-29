@@ -1,4 +1,15 @@
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
+<h2 align="center">Hi 👋, I'm Ngoc Tuan</h2>
+<p align="center">
+  <h3 align="center">A passionate Data Analyst from UIT </h3>
+</p>
+
+
+
+<br />
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngoctuan59111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ngoctuanuit/) 
 
