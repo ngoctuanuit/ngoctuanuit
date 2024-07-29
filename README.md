@@ -23,7 +23,7 @@ University, HCMC**.
   <a href="https://www.linkedin.com/in/ngoctuanuit/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-      <a href="https://facebook.com/https://www.facebook.com/ngoctuan59111" target="_blank">
+      <a href="https://www.facebook.com/ngoctuan59111" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
   </a>
 </div>
