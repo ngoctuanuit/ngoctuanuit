@@ -10,9 +10,9 @@
 
 <div align="center">
  
- I’m currently studying in **University Of Information Technology - VNUHCM**
+ I'm a senior **Information Systems** student at the **University of Information Technology - Vietnam National
+University, HCMC**.
  
- My major is **Information System**
  
  </div>
  
