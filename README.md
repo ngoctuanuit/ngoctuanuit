@@ -10,7 +10,7 @@
 
 <div align="center">
  
- I'm a senior **Information Systems** student at the **University of Information Technology - Vietnam National
+ I'm a senior **Information System** student at the **University of Information Technology - Vietnam National
 University, HCMC**.
  
  
